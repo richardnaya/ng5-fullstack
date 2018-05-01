@@ -1,4 +1,4 @@
-# Ng5 Full Stack [![Dependencies]
+# Ng5 Full Stack
 
 The frontend is generated with [Angular CLI](https://github.com/angular/angular-cli). The backend is made from scratch. Whole stack in [TypeScript](https://www.typescriptlang.org).
 
